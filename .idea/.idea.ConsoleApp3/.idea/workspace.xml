@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25fd6db7-85df-439d-bc67-d92ddd3bebe2" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConsoleApp3/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="59" column="87" selection-start-line="59" selection-start-column="87" selection-end-line="59" selection-end-column="87" />
+              <folding>
+                <marker date="1527732984434" expanded="false" signature="6:94" ph="..." />
+                <marker date="1527732984434" expanded="true" signature="117:2784" ph="{...}" />
+                <marker date="1527732984434" expanded="true" signature="137:2782" ph="{...}" />
+                <marker date="1527732984434" expanded="true" signature="320:730" ph="{...}" />
+                <marker date="1527732984434" expanded="true" signature="772:965" ph="{...}" />
+                <marker date="1527732984434" expanded="true" signature="787:944" ph="/* connection.getData(); ... */" />
+                <marker date="1527732984434" expanded="true" signature="967:1585" ph="/* public static void SearchByName() ... */" />
+                <marker date="1527732984434" expanded="true" signature="1626:2776" ph="{...}" />
+                <marker date="1527732984434" expanded="true" signature="1661:2766" ph="{...}" />
+                <marker date="1527732984434" expanded="true" signature="2227:2715" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Student.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConsoleApp3/Student.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+              <folding>
+                <marker date="1527564977873" expanded="true" signature="36:849" ph="{...}" />
+                <marker date="1527564977873" expanded="true" signature="63:847" ph="{...}" />
+                <marker date="1527564977873" expanded="true" signature="189:209" ph="{...}" />
+                <marker date="1527564977873" expanded="true" signature="279:403" ph="{...}" />
+                <marker date="1527564977873" expanded="true" signature="437:527" ph="{...}" />
+                <marker date="1527564977873" expanded="true" signature="555:633" ph="{...}" />
+                <marker date="1527564977873" expanded="true" signature="662:742" ph="{...}" />
+                <marker date="1527564977873" expanded="true" signature="785:841" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DBConnection.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ConsoleApp3/DBConnection.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+              <folding>
+                <marker date="1527733361489" expanded="true" signature="6:43" ph="..." />
+                <marker date="1527733361489" expanded="true" signature="66:1174" ph="{...}" />
+                <marker date="1527733361489" expanded="true" signature="98:1172" ph="{...}" />
+                <marker date="1527733361489" expanded="true" signature="150:1164" ph="{...}" />
+                <marker date="1527733361489" expanded="true" signature="180:988" ph="{...}" />
+                <marker date="1527733361489" expanded="true" signature="880:937" ph="{...}" />
+                <marker date="1527733361489" expanded="true" signature="1025:1152" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ConsoleApp3/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp3/Student.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp3/DBConnection.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ConsoleApp3/Student.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp3/Program.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp3/DBConnection.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ConsoleApp3 (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ConsoleApp3 (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ConsoleApp3" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ConsoleApp3/bin/Debug/netcoreapp2.0/ConsoleApp3.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ConsoleApp3" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ConsoleApp3/ConsoleApp3.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25fd6db7-85df-439d-bc67-d92ddd3bebe2" name="Default" comment="" />
+      <created>1527564353657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527564353657</updated>
+      <workItem from="1527564354959" duration="6105000" />
+      <workItem from="1527729780819" duration="3545000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9650000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.09912854" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18017058" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.08605664" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ConsoleApp3/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <marker date="1527732984434" expanded="false" signature="6:94" ph="..." />
+            <marker date="1527732984434" expanded="true" signature="117:2784" ph="{...}" />
+            <marker date="1527732984434" expanded="true" signature="137:2782" ph="{...}" />
+            <marker date="1527732984434" expanded="true" signature="320:730" ph="{...}" />
+            <marker date="1527732984434" expanded="true" signature="772:965" ph="{...}" />
+            <marker date="1527732984434" expanded="true" signature="787:944" ph="/* connection.getData(); ... */" />
+            <marker date="1527732984434" expanded="true" signature="967:1585" ph="/* public static void SearchByName() ... */" />
+            <marker date="1527732984434" expanded="true" signature="1626:2776" ph="{...}" />
+            <marker date="1527732984434" expanded="true" signature="1661:2766" ph="{...}" />
+            <marker date="1527732984434" expanded="true" signature="2227:2715" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp3/Student.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          <folding>
+            <marker date="1527564977873" expanded="true" signature="36:849" ph="{...}" />
+            <marker date="1527564977873" expanded="true" signature="63:847" ph="{...}" />
+            <marker date="1527564977873" expanded="true" signature="189:209" ph="{...}" />
+            <marker date="1527564977873" expanded="true" signature="279:403" ph="{...}" />
+            <marker date="1527564977873" expanded="true" signature="437:527" ph="{...}" />
+            <marker date="1527564977873" expanded="true" signature="555:633" ph="{...}" />
+            <marker date="1527564977873" expanded="true" signature="662:742" ph="{...}" />
+            <marker date="1527564977873" expanded="true" signature="785:841" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp3/DBConnection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+          <folding>
+            <marker date="1527733361489" expanded="true" signature="6:43" ph="..." />
+            <marker date="1527733361489" expanded="true" signature="66:1174" ph="{...}" />
+            <marker date="1527733361489" expanded="true" signature="98:1172" ph="{...}" />
+            <marker date="1527733361489" expanded="true" signature="150:1164" ph="{...}" />
+            <marker date="1527733361489" expanded="true" signature="180:988" ph="{...}" />
+            <marker date="1527733361489" expanded="true" signature="880:937" ph="{...}" />
+            <marker date="1527733361489" expanded="true" signature="1025:1152" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp3/ConsoleApp3.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp3/Student.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          <folding>
+            <marker date="1527564977873" expanded="true" signature="36:849" ph="{...}" />
+            <marker date="1527564977873" expanded="true" signature="63:847" ph="{...}" />
+            <marker date="1527564977873" expanded="true" signature="189:209" ph="{...}" />
+            <marker date="1527564977873" expanded="true" signature="279:403" ph="{...}" />
+            <marker date="1527564977873" expanded="true" signature="437:527" ph="{...}" />
+            <marker date="1527564977873" expanded="true" signature="555:633" ph="{...}" />
+            <marker date="1527564977873" expanded="true" signature="662:742" ph="{...}" />
+            <marker date="1527564977873" expanded="true" signature="785:841" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp3/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="59" column="87" selection-start-line="59" selection-start-column="87" selection-end-line="59" selection-end-column="87" />
+          <folding>
+            <marker date="1527732984434" expanded="false" signature="6:94" ph="..." />
+            <marker date="1527732984434" expanded="true" signature="117:2784" ph="{...}" />
+            <marker date="1527732984434" expanded="true" signature="137:2782" ph="{...}" />
+            <marker date="1527732984434" expanded="true" signature="320:730" ph="{...}" />
+            <marker date="1527732984434" expanded="true" signature="772:965" ph="{...}" />
+            <marker date="1527732984434" expanded="true" signature="787:944" ph="/* connection.getData(); ... */" />
+            <marker date="1527732984434" expanded="true" signature="967:1585" ph="/* public static void SearchByName() ... */" />
+            <marker date="1527732984434" expanded="true" signature="1626:2776" ph="{...}" />
+            <marker date="1527732984434" expanded="true" signature="1661:2766" ph="{...}" />
+            <marker date="1527732984434" expanded="true" signature="2227:2715" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp3/DBConnection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+          <folding>
+            <marker date="1527733361489" expanded="true" signature="6:43" ph="..." />
+            <marker date="1527733361489" expanded="true" signature="66:1174" ph="{...}" />
+            <marker date="1527733361489" expanded="true" signature="98:1172" ph="{...}" />
+            <marker date="1527733361489" expanded="true" signature="150:1164" ph="{...}" />
+            <marker date="1527733361489" expanded="true" signature="180:988" ph="{...}" />
+            <marker date="1527733361489" expanded="true" signature="880:937" ph="{...}" />
+            <marker date="1527733361489" expanded="true" signature="1025:1152" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
